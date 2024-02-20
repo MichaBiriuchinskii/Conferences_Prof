@@ -7,7 +7,7 @@ Il représente un [site web](https://michabiriuchinskii.github.io/Conferences_Pr
 
 Il est à noter que le projet original a été initialement réalisé dans l'application Obsidian :
 
-![obsidian_screenshot](obsidian_screenshot.pdf)
+![obsidian_screenshot](obsidian_screenshot)
 
 Obsidian est une application populaire de prise de notes en Markdown dans le domaine de la gestion des connaissances personnelles. L'éditeur Obsidian est gratuit mais n'est pas open source. Il dispose de certaines fonctionnalités premium payantes. Obsidian Publish est l'une de ces fonctionnalités premium, qui permet de partager la vue graphique des liens bidirectionnels entre les notes.
 
