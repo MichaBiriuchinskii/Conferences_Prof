@@ -13,10 +13,18 @@ Obsidian est une application populaire de prise de notes en Markdown dans le dom
 
 De cette façon, dans le but de partager ce graphe, j'ai implémenté le projet [obsidian2cosma](https://github.com/kevinpolisano/obsidian2cosma) qui aide à convertir le format Obsidian en format Cosma pour une visualisation graphique gratuite : 
 
-![mon_site](mon_site.png)
-
+```terminal
+python obsidian2cosma.py -i input_folder_path -o output_folder_path
+                       [--type TYPE] [--tags TAGS]
+                       [--typedlinks TYPEDLINKS] [--semanticsection SEMANTICSECTION]
+                       [--creationdate CREATIONDATE]
+                       [--zettlr ZETTLR] 
+                       [--verbose]
+```
 
 Veuillez noter que sur le [site](https://michabiriuchinskii.github.io/Conferences_Prof/#20240218174630), vous pouvez explorer toutes les fonctionnalités de Cosmo (déplacer des cellules, ouvrir des notes, voir les éléments communs entre les notes, étudier les liens, etc.)
+
+![mon_site](mon_site.png)
 
 **Profitez-en !**
 
